@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tbanus
 - 👀 I’m interested in Robotics and Control Systems as well as their machine learning applications.
-- 🌱 I’m learning Java and C++
-- 💞️ I’m looking for help in my developments.
+- 🌱 I’m good at Python and getting better at C++. 
 - 📫 You can contact me via e-mail : omertarikbanus@gmail.com
 
 <!---
